@@ -19,7 +19,6 @@ Subscribe to news: https://telegram.me/YTAusio_Channel
 
 ABOUT_TEXT = """<b>{bot_name} version {version}</b>
 Created by @Ghost_Promoter 
-Source code is available at <a href="https://github.com/alashow/datmusicbot">github</a>."""
 
 
 artists = ["2 Cellos", "Agnes Obel", "Aloe Black", "Andrew Belle", "Angus Stone", "Aquilo", "Arctic Monkeys",
