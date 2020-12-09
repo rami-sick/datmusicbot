@@ -14,14 +14,14 @@ Usage: search music by typing {bot_name} in a chat.
 
 /about - to see about page
 
-Subscribe to news: https://telegram.me/datmusicnews
+Subscribe to news: https://telegram.me/YTAusio_Channel
 """
 
 ABOUT_TEXT = """<b>{bot_name} version {version}</b>
-Created by @alashow
+Created by @Ghost_Promoter 
 Source code is available at <a href="https://github.com/alashow/datmusicbot">github</a>."""
 
-# derived from https://github.com/alashow/music/blob/master/js/app.js#L213
+
 artists = ["2 Cellos", "Agnes Obel", "Aloe Black", "Andrew Belle", "Angus Stone", "Aquilo", "Arctic Monkeys",
            "Avicii", "Balmorhea", "Barcelona", "Bastille", "Ben Howard", "Benj Heard", "Birdy", "Broods",
            "Calvin Harris", "Charlotte OC", "City of The Sun", "Civil Twilight", "Clint Mansell", "Coldplay",
