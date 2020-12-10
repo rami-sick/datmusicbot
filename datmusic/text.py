@@ -14,7 +14,7 @@ Usage: search music by typing {bot_name} in a chat.
 
 /about - to see about page
 
-Subscribe to news: https://telegram.me/YTAusio_Channel
+Subscribe to news: https://telegram.me/YTAudio_Channel
 """
 
 ABOUT_TEXT = """<b>{bot_name} version {version}</b>
